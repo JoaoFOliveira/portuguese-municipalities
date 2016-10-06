@@ -4,9 +4,11 @@
   "description": "List of Portuguese Municipalities",
   "main": "index.js",
   "dependencies": {
+    
+  },
+  "devDependencies": {
     "tabletojson": "^0.4.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
