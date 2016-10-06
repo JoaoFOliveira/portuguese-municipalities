@@ -1,0 +1,27 @@
+{
+  "name": "portuguese-municipalities",
+  "description": "List of Portuguese Municipalities",
+  "main": "index.js",
+  "authors": [
+    "João Oliveira"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "municipios",
+    "concelhos",
+    "distritos",
+    "municipalities",
+    "districts",
+    "counties",
+    "portuguese",
+    "pt"
+  ],
+  "homepage": "https://github.com/JoaoFOliveira/portuguese-municipalities",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
