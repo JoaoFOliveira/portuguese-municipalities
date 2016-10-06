@@ -1,0 +1,25 @@
+{
+  "name": "portuguese-municipalities",
+  "version": "1.0.0",
+  "description": "List of Portuguese Municipalities",
+  "main": "index.js",
+  "dependencies": {
+    "tabletojson": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "municipios",
+    "concelhos",
+    "distritos",
+    "municipalities",
+    "districts",
+    "counties",
+    "portuguese",
+    "pt"
+  ],
+  "author": "João Oliveira",
+  "license": "MIT"
+}
