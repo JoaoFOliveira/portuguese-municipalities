@@ -1,8 +1,8 @@
-var tabletojson = require('tabletojson')
-var url = 'https://pt.wikipedia.org/wiki/Lista_de_concelhos_por_NUTS,_distritos_e_ilhas'
+const tabletojson = require('tabletojson')
+const url = 'https://pt.wikipedia.org/wiki/Lista_de_concelhos_por_NUTS,_distritos_e_ilhas'
 tabletojson.convertUrl(url, (tablesAsJson) => {
-  var listOfMunicipalities = tablesAsJson[0].concat(tablesAsJson[1])
-  buildJSON(listOfMunicipalities) // Remove first line of headers
+  const listOfMunicipalities = tablesAsJson[0].concat(tablesAsJson[1])
+  buildJSON(listOfMunicipalities)
 })
 
 const buildJSON = (listOfMunicipalities) => {
@@ -20,12 +20,12 @@ const buildJSON = (listOfMunicipalities) => {
 
 const writeToFile = (data) => {
   const fs = require('fs')
-  var outputFilename = './municipalities.json'
+  const outputFilename = './municipalities.json'
   fs.writeFile(outputFilename, JSON.stringify(data, null, 4), function (err) {
     if (err) {
       console.log(err)
     } else {
-      console.log('Done ' + outputFilename)
+      console.log(`Done building ${outputFilename}`)
     }
   })
 }
