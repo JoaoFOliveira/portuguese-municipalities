@@ -3,11 +3,9 @@
   "version": "1.0.3",
   "description": "List of Portuguese Municipalities",
   "main": "index.js",
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "devDependencies": {
-    "tabletojson": "^0.4.0"
+    "tabletojson": "^2.0.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

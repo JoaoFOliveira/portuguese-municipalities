@@ -1,4 +1,4 @@
-const tabletojson = require('tabletojson')
+const tabletojson = require('tabletojson').Tabletojson
 const url = 'https://pt.wikipedia.org/wiki/Lista_de_concelhos_por_NUTS,_distritos_e_ilhas'
 tabletojson.convertUrl(url, (tablesAsJson) => {
   const listOfMunicipalities = tablesAsJson[0].concat(tablesAsJson[1])

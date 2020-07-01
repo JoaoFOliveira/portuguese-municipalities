@@ -1,1226 +1,1227 @@
 [
+    {},
     {
         "name": "Arcos de Valdevez",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Caminha",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Melgaço",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Monção",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Paredes de Coura",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Ponte da Barca",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Ponte de Lima",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Valença",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Viana do Castelo",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Vila Nova de Cerveira",
         "district": "Viana do Castelo",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Minho"
     },
     {
         "name": "Amares",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Cávado"
     },
     {
         "name": "Barcelos",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Cávado"
     },
     {
         "name": "Braga",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Cávado"
     },
     {
         "name": "Esposende",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Cávado"
     },
     {
         "name": "Terras de Bouro",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Cávado"
     },
     {
         "name": "Vila Verde",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Cávado"
     },
     {
         "name": "Cabeceiras de Basto[2]",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Ave"
     },
     {
         "name": "Fafe",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Ave"
     },
     {
         "name": "Guimarães",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Ave"
     },
     {
         "name": "Mondim de Basto[2]",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Ave"
     },
     {
         "name": "Póvoa de Lanhoso",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Ave"
     },
     {
         "name": "Vieira do Minho",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Ave"
     },
     {
         "name": "Vila Nova de Famalicão",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Ave"
     },
     {
         "name": "Vizela",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Ave"
     },
     {
         "name": "Arouca",
         "district": "Aveiro",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Espinho",
         "district": "Aveiro",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Gondomar",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Maia",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Matosinhos",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Oliveira de Azeméis",
         "district": "Aveiro",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Paredes",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Porto",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Póvoa de Varzim",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Santa Maria da Feira",
         "district": "Aveiro",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Santo Tirso[2]",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "São João da Madeira",
         "district": "Aveiro",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Trofa[2]",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Vale de Cambra",
         "district": "Aveiro",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Valongo",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Vila do Conde",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Vila Nova de Gaia",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Área Metropolitana do Porto"
     },
     {
         "name": "Amarante",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Baião",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Castelo de Paiva",
         "district": "Aveiro",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Celorico de Basto",
         "district": "Braga",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Cinfães",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Felgueiras",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Lousada",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Marco de Canaveses",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Paços de Ferreira",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Penafiel",
         "district": "Porto",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Resende",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Tâmega e Sousa"
     },
     {
         "name": "Boticas",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Tâmega"
     },
     {
         "name": "Chaves",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Tâmega"
     },
     {
         "name": "Montalegre",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Tâmega"
     },
     {
         "name": "Ribeira de Pena",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Tâmega"
     },
     {
         "name": "Valpaços",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Tâmega"
     },
     {
         "name": "Vila Pouca de Aguiar",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Alto Tâmega"
     },
     {
         "name": "Alijó",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Armamar",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Carrazeda de Ansiães",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Freixo de Espada à Cinta",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Lamego",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Mesão Frio",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Moimenta da Beira",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Murça",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Penedono",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Peso da Régua",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Sabrosa",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Santa Marta de Penaguião",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "São João da Pesqueira",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Sernancelhe",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Tabuaço",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Tarouca",
         "district": "Viseu",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Torre de Moncorvo",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Vila Nova de Foz Côa",
         "district": "Guarda",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Vila Real",
         "district": "Vila Real",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Douro"
     },
     {
         "name": "Alfândega da Fé",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Terras de Trás-os-Montes"
     },
     {
         "name": "Bragança",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Terras de Trás-os-Montes"
     },
     {
         "name": "Macedo de Cavaleiros",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Terras de Trás-os-Montes"
     },
     {
         "name": "Miranda do Douro",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Terras de Trás-os-Montes"
     },
     {
         "name": "Mirandela",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Terras de Trás-os-Montes"
     },
     {
         "name": "Mogadouro",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Terras de Trás-os-Montes"
     },
     {
         "name": "Vila Flor[2]",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Terras de Trás-os-Montes"
     },
     {
         "name": "Vimioso",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Terras de Trás-os-Montes"
     },
     {
         "name": "Vinhais",
         "district": "Bragança",
-        "region": "Norte",
+        "region": "Região do Norte",
         "province": "Terras de Trás-os-Montes"
     },
     {
         "name": "Águeda",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Albergaria-a-Velha",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Anadia",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Aveiro",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Estarreja",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Ílhavo",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Murtosa",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Oliveira do Bairro",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Ovar",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Sever do Vouga",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Vagos",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Aveiro"
     },
     {
         "name": "Arganil",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Cantanhede",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Coimbra",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Condeixa-a-Nova",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Figueira da Foz",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Góis",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Lousã",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Mealhada[2]",
         "district": "Aveiro",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Mira",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Miranda do Corvo",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Montemor-o-Velho",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Mortágua[2]",
         "district": "Viseu",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Oliveira do Hospital",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Pampilhosa da Serra",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Penacova",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Penela",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Soure",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Tábua",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Vila Nova de Poiares",
         "district": "Coimbra",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Coimbra"
     },
     {
         "name": "Batalha",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Leiria",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Marinha Grande",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Pombal",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Porto de Mós",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Alvaiázere",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Ansião",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Castanheira de Pera",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Figueiró dos Vinhos",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Pedrógão Grande",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Região de Leiria"
     },
     {
         "name": "Aguiar da Beira",
         "district": "Guarda",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Carregal do Sal",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Castro Daire",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Mangualde",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Nelas",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Oliveira de Frades",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Penalva do Castelo",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Santa Comba Dão",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "São Pedro do Sul",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Sátão",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Tondela",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Vila Nova de Paiva",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Viseu",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Vouzela",
         "district": "Viseu",
-        "region": "Centro",
-        "province": "Viseu Dão-Lafões"
+        "region": "Região do Centro",
+        "province": "Viseu Dão Lafões"
     },
     {
         "name": "Almeida",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Belmonte",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Celorico da Beira",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Covilhã",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Figueira de Castelo Rodrigo",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Fornos de Algodres",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Fundão",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Gouveia",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Guarda",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Manteigas",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Mêda",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Pinhel",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Sabugal",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Seia",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Trancoso",
         "district": "Guarda",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beiras e Serra da Estrela"
     },
     {
         "name": "Castelo Branco",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beira Baixa"
     },
     {
         "name": "Idanha-a-Nova",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beira Baixa"
     },
     {
         "name": "Oleiros",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beira Baixa"
     },
     {
         "name": "Penamacor",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beira Baixa"
     },
     {
         "name": "Proença-a-Nova",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beira Baixa"
     },
     {
         "name": "Vila Velha de Ródão",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Beira Baixa"
     },
     {
         "name": "Alcobaça",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Alenquer",
         "district": "Lisboa",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Arruda dos Vinhos",
         "district": "Lisboa",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Bombarral",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Cadaval",
         "district": "Lisboa",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Caldas da Rainha",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Lourinhã",
         "district": "Lisboa",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Nazaré",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Óbidos",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Peniche",
         "district": "Leiria",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Sobral de Monte Agraço",
         "district": "Lisboa",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Torres Vedras",
         "district": "Lisboa",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Oeste"
     },
     {
         "name": "Abrantes",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Alcanena",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Constância",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Entroncamento",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Ferreira do Zêzere",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Mação [5]",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Ourém",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Sardoal",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Sertã",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Tomar",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Torres Novas",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Vila de Rei",
         "district": "Castelo Branco",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Vila Nova da Barquinha",
         "district": "Santarém",
-        "region": "Centro",
+        "region": "Região do Centro",
         "province": "Médio Tejo"
     },
     {
         "name": "Alcochete",
         "district": "Setúbal",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Almada",
         "district": "Setúbal",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Amadora",
         "district": "Lisboa",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Barreiro",
         "district": "Setúbal",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Cascais",
         "district": "Lisboa",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Lisboa",
         "district": "Lisboa",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Loures",
         "district": "Lisboa",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Mafra",
         "district": "Lisboa",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Moita",
         "district": "Setúbal",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Montijo",
         "district": "Setúbal",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Odivelas",
         "district": "Lisboa",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Oeiras",
         "district": "Lisboa",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Palmela",
         "district": "Setúbal",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Seixal",
         "district": "Setúbal",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Sesimbra",
         "district": "Setúbal",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Setúbal",
         "district": "Setúbal",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Sintra",
         "district": "Lisboa",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
         "name": "Vila Franca de Xira",
         "district": "Lisboa",
-        "region": "Área Metropolitana de Lisboa",
+        "region": "Região de Lisboa",
         "province": "Área Metropolitana de Lisboa"
     },
     {
@@ -1666,100 +1667,5 @@
         "district": "Faro",
         "region": "Algarve",
         "province": "Algarve"
-    },
-    {
-        "name": "Angra do Heroísmo",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Calheta",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Corvo",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Horta",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Lagoa",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Lajes das Flores",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Lajes do Pico",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Madalena",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Nordeste",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Ponta Delgada",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Povoação",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Praia da Vitória",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Ribeira Grande",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Santa Cruz da Graciosa",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Santa Cruz das Flores",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "São Roque do Pico",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Velas",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Vila do Porto",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
-    },
-    {
-        "name": "Vila Franca do Campo",
-        "region": "Região Autónoma dos Açores",
-        "province": "Região Autónoma dos Açores"
     }
 ]
